@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/imgaes">
+        <file>bold (2).png</file>
+        <file>subscript.png</file>
+        <file>superscript.png</file>
+        <file>resume (2).png</file>
+    </qresource>
+</RCC>
